@@ -25,7 +25,7 @@
         <artifactId>kafka-connect-parent</artifactId>
         <version>0.10.2.1-cp2</version>
     </parent>
-    <artifactId>kafka-connect-kinesis</artifactId>
+    <artifactId>kafka-connect-kinesis-source</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <name>kafka-connect-kinesis</name>
     <url>https://github.com/jcustenborder/kafka-connect-kinesis</url>
